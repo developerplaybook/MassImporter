@@ -1,0 +1,8 @@
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Debug\App.config
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Debug\Importer.Console.exe.config
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Debug\Importer.Console.exe
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Debug\Importer.Console.pdb
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Debug\NLog.dll
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Debug\NLog.xml
+E:\Projects\Playground\MassImport\Importer\Importer.Console\obj\Debug\Importer.Console.exe
+E:\Projects\Playground\MassImport\Importer\Importer.Console\obj\Debug\Importer.Console.pdb

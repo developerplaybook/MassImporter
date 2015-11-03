@@ -1,0 +1,5 @@
+[2015-11-02 15:07:33.4275 | Error][1] Bulk copy was unable to complete the operation with the follwing error Login failed for user 'smensah'.
+This session has been assigned a tracing ID of '3f9031cd-3ce6-4420-ac95-3b35512327fb'.  Provide this tracing ID to customer support when you need assistance.
+[2015-11-02 15:07:50.9252 | Error][1] Bulk copy was unable to complete the operation with the follwing error Login failed for user 'smensah'.
+This session has been assigned a tracing ID of '38967a51-cb49-476a-bc7e-80e43f88bead'.  Provide this tracing ID to customer support when you need assistance.
+[2015-11-02 15:11:20.6930 | Error][1] Bulk copy was unable to complete the operation with the follwing error Cannot access destination table 'TopOrders'.

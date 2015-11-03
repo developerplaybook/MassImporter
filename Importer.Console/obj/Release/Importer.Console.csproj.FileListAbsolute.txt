@@ -1,0 +1,9 @@
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Release\App.config
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Release\Importer.Console.exe.config
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Release\Importer.Console.exe
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Release\Importer.Console.pdb
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Release\NLog.dll
+E:\Projects\Playground\MassImport\Importer\Importer.Console\bin\Release\NLog.xml
+E:\Projects\Playground\MassImport\Importer\Importer.Console\obj\Release\Importer.Console.exe
+E:\Projects\Playground\MassImport\Importer\Importer.Console\obj\Release\Importer.Console.pdb
+E:\Projects\Playground\MassImport\Importer\Importer.Console\obj\Release\Importer.Console.csprojResolveAssemblyReference.cache

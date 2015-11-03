@@ -1,0 +1,5 @@
+E:\Projects\Playground\MassImport\Importer\Importer.Core\bin\Release\Importer.Core.dll
+E:\Projects\Playground\MassImport\Importer\Importer.Core\bin\Release\Importer.Core.pdb
+E:\Projects\Playground\MassImport\Importer\Importer.Core\obj\Release\Importer.Core.csprojResolveAssemblyReference.cache
+E:\Projects\Playground\MassImport\Importer\Importer.Core\obj\Release\Importer.Core.dll
+E:\Projects\Playground\MassImport\Importer\Importer.Core\obj\Release\Importer.Core.pdb
