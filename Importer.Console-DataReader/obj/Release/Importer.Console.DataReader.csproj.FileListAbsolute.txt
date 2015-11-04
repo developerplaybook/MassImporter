@@ -1,0 +1,10 @@
+E:\Projects\Playground\MassImport\Importer\Importer.Console-DataReader\bin\Release\Importer.Console.DataReader.exe.config
+E:\Projects\Playground\MassImport\Importer\Importer.Console-DataReader\bin\Release\Importer.Console.DataReader.exe
+E:\Projects\Playground\MassImport\Importer\Importer.Console-DataReader\bin\Release\Importer.Console.DataReader.pdb
+E:\Projects\Playground\MassImport\Importer\Importer.Console-DataReader\bin\Release\Importer.Core.dll
+E:\Projects\Playground\MassImport\Importer\Importer.Console-DataReader\bin\Release\NLog.dll
+E:\Projects\Playground\MassImport\Importer\Importer.Console-DataReader\bin\Release\Importer.Core.pdb
+E:\Projects\Playground\MassImport\Importer\Importer.Console-DataReader\bin\Release\NLog.xml
+E:\Projects\Playground\MassImport\Importer\Importer.Console-DataReader\obj\Release\Importer.Console.DataReader.csprojResolveAssemblyReference.cache
+E:\Projects\Playground\MassImport\Importer\Importer.Console-DataReader\obj\Release\Importer.Console.DataReader.exe
+E:\Projects\Playground\MassImport\Importer\Importer.Console-DataReader\obj\Release\Importer.Console.DataReader.pdb

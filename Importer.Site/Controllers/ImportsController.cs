@@ -1,4 +1,6 @@
-﻿using System.Web;
+﻿using System;
+using System.IO;
+using System.Web;
 using System.Web.Mvc;
 using Importer.Site.Models;
 
@@ -19,15 +21,20 @@ namespace Importer.Site.Controllers
         {
             try
             {
-                if (ModelState.IsValid)
+                if (upload != null && upload.ContentLength > 0)
                 {
-                    var import = new FilePath
+                    try
                     {
-                        FileName = System.IO.Path.GetFileName(upload.FileName),
-
-                    };
+                        string path = Path.Combine(Server.MapPath("~/Uploads"), Path.GetFileName(upload.FileName));
+                        upload.SaveAs(path);
+                    }
+                    catch (Exception)
+                    {
+                        throw  new ApplicationException("Something Wrong Happened");
+                        
+                    }
                 }
-
+                
                 return RedirectToAction("Import");
             }
             catch

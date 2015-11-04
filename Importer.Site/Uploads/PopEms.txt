@@ -1,0 +1,27 @@
+"Pop.Ems"|Information|0|"Started method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.0690695Z"||
+"Pop.Ems"|Information|0|"this.SubscriberMailingCount == this.SubscriberQueueCount && this.SubscriberMailingCount > 0 for mailing 00000000-0000-0000-0000-000000000000"||9656||"10"|"2015-01-29T23:21:06.0720698Z"||
+"Pop.Ems"|Information|0|"Ended method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.0730699Z"||
+"Pop.Ems"|Information|0|"Started method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.2320858Z"||
+"Pop.Ems"|Information|0|"this.SubscriberMailingCount == this.SubscriberQueueCount && this.SubscriberMailingCount > 0 for mailing 00000000-0000-0000-0000-000000000000"||9656||"10"|"2015-01-29T23:21:06.2320858Z"||
+"Pop.Ems"|Information|0|"Ended method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.2330859Z"||
+"Pop.Ems"|Information|0|"Started method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.4081034Z"||
+"Pop.Ems"|Information|0|"this.TimeSinceLastBatch.CompareTo(maxTimeSpanAllowedBetweenBatches): -1"||9656||"10"|"2015-01-29T23:21:06.4131039Z"||
+"Pop.Ems"|Information|0|"Ended method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.4131039Z"||
+"Pop.Ems"|Information|0|"Started method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.5831209Z"||
+"Pop.Ems"|Information|0|"this.TimeSinceLastBatch.CompareTo(maxTimeSpanAllowedBetweenBatches): 1"||9656||"10"|"2015-01-29T23:21:06.5831209Z"||
+"Pop.Ems"|Information|0|"Ended method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.5831209Z"||
+"Pop.Ems"|Information|0|"Started method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.7591385Z"||
+"Pop.Ems"|Information|0|"MailingQueueCompleted is false for mailing 00000000-0000-0000-0000-000000000000"||9656||"10"|"2015-01-29T23:21:06.7591385Z"||
+"Pop.Ems"|Information|0|"DateCreated.SystemDateTime.AddMinutes(60).CompareTo(DateTime.Now): -1"||9656||"10"|"2015-01-29T23:21:06.7591385Z"||
+"Pop.Ems"|Information|0|"Ended method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.7601386Z"||
+"Pop.Ems"|Information|0|"Started method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.9331559Z"||
+"Pop.Ems"|Information|0|"MailingQueueCompleted is false for mailing 00000000-0000-0000-0000-000000000000"||9656||"10"|"2015-01-29T23:21:06.9331559Z"||
+"Pop.Ems"|Information|0|"DateCreated.SystemDateTime.AddMinutes(60).CompareTo(DateTime.Now): 1"||9656||"10"|"2015-01-29T23:21:06.9331559Z"||
+"Pop.Ems"|Information|0|"Ended method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:06.9331559Z"||
+"Pop.Ems"|Information|0|"Started method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:07.1071733Z"||
+"Pop.Ems"|Information|0|"MailingQueueCompleted is false for mailing 00000000-0000-0000-0000-000000000000"||9656||"10"|"2015-01-29T23:21:07.1081734Z"||
+"Pop.Ems"|Information|0|"DateCreated.SystemDateTime.AddMinutes(60).CompareTo(DateTime.Now): -1"||9656||"10"|"2015-01-29T23:21:07.1081734Z"||
+"Pop.Ems"|Information|0|"Ended method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:07.1081734Z"||
+"Pop.Ems"|Information|0|"Started method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:07.3081934Z"||
+"Pop.Ems"|Information|0|"this.TimeSinceLastBatch.CompareTo(maxTimeSpanAllowedBetweenBatches): 1"||9656||"10"|"2015-01-29T23:21:07.3081934Z"||
+"Pop.Ems"|Information|0|"Ended method MailingStatistics.IsIdle"||9656||"10"|"2015-01-29T23:21:07.3081934Z"||
