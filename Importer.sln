@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importer.Console.DataTable"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importer.Console.DataReader", "Importer.Console-DataReader\Importer.Console.DataReader.csproj", "{BC9865CA-19AB-4E9F-B6A9-1092A1247178}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Importer.DB", "Importer.DB\Importer.DB.sqlproj", "{A2871D98-35C4-4D5C-97E3-8FFDD1CF702D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,12 @@ Global
 		{BC9865CA-19AB-4E9F-B6A9-1092A1247178}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC9865CA-19AB-4E9F-B6A9-1092A1247178}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC9865CA-19AB-4E9F-B6A9-1092A1247178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2871D98-35C4-4D5C-97E3-8FFDD1CF702D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2871D98-35C4-4D5C-97E3-8FFDD1CF702D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2871D98-35C4-4D5C-97E3-8FFDD1CF702D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A2871D98-35C4-4D5C-97E3-8FFDD1CF702D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2871D98-35C4-4D5C-97E3-8FFDD1CF702D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2871D98-35C4-4D5C-97E3-8FFDD1CF702D}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+E:\Projects\Playground\MassImport\Importer\Importer.DB\bin\Release\Importer.DB.dacpac
+E:\Projects\Playground\MassImport\Importer\Importer.DB\bin\Release\Importer.DB.dll
+E:\Projects\Playground\MassImport\Importer\Importer.DB\bin\Release\Importer.DB.pdb
+E:\Projects\Playground\MassImport\Importer\Importer.DB\obj\Release\Model.xml
+E:\Projects\Playground\MassImport\Importer\Importer.DB\obj\Release\refactor.xml
+E:\Projects\Playground\MassImport\Importer\Importer.DB\obj\Release\postdeploy.sql
+E:\Projects\Playground\MassImport\Importer\Importer.DB\obj\Release\predeploy.sql
+E:\Projects\Playground\MassImport\Importer\Importer.DB\obj\Release\Importer.DB.dll
+E:\Projects\Playground\MassImport\Importer\Importer.DB\obj\Release\Importer.DB.pdb
