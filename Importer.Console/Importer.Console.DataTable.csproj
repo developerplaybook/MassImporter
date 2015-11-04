@@ -7,8 +7,8 @@
     <ProjectGuid>{3196C2AF-8318-425A-A302-C9BB8AE5045A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Importer.Console</RootNamespace>
-    <AssemblyName>Importer.Console</AssemblyName>
+    <RootNamespace>Importer.Console.DataTable</RootNamespace>
+    <AssemblyName>Importer.Console.DataTable</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
