@@ -14,7 +14,7 @@ namespace Importer.Console.DataReader
 
         static void Main(string[] args)
         {
-            string connectionString = @"Data Source=pc-samuelnm;Integrated Security=True";
+            string connectionString = @"Data Source=[SERVER];Integrated Security=True";
             List<Import> imports = GetImports();
             SqlBulkCopySettings settings = SqlBulkCopySettings.GetSettings();
             EnumerableDataReader enumerableDataReader = new EnumerableDataReader(imports);
