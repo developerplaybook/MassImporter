@@ -11,7 +11,7 @@ namespace Importer.Console
         private static readonly Logger Logger = LogManager.GetCurrentClassLogger();
         public static void Main(string[] args)
         {
-            string connectionString = @"Data Source=pc-samuelnm;Integrated Security=True";
+            string connectionString = @"Data Source=[SERVER];Integrated Security=True";
             var sourceDataTable = GetSourceDataTable();
             SqlBulkCopySettings settings = SqlBulkCopySettings.GetSettings();
 
